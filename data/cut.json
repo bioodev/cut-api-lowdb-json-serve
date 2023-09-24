@@ -1,0 +1,3119 @@
+{
+  "chile": 
+  [
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "011",
+      "nombreprovincia": "Iquique",
+      "codigocomuna": "01101",
+      "nombrecomuna": "Iquique"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "011",
+      "nombreprovincia": "Iquique",
+      "codigocomuna": "01107",
+      "nombrecomuna": "Alto Hospicio"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "014",
+      "nombreprovincia": "Tamarugal",
+      "codigocomuna": "01401",
+      "nombrecomuna": "Pozo Almonte"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "014",
+      "nombreprovincia": "Tamarugal",
+      "codigocomuna": "01402",
+      "nombrecomuna": "Camiña"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "014",
+      "nombreprovincia": "Tamarugal",
+      "codigocomuna": "01403",
+      "nombrecomuna": "Colchane"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "014",
+      "nombreprovincia": "Tamarugal",
+      "codigocomuna": "01404",
+      "nombrecomuna": "Huara"
+    },
+    {
+      "codigoregion": "01",
+      "nombreregion": "Tarapacá",
+      "abreviaturaregion": "TPCA",
+      "codigoprovincia": "014",
+      "nombreprovincia": "Tamarugal",
+      "codigocomuna": "01405",
+      "nombrecomuna": "Pica"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "021",
+      "nombreprovincia": "Antofagasta",
+      "codigocomuna": "02101",
+      "nombrecomuna": "Antofagasta"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "021",
+      "nombreprovincia": "Antofagasta",
+      "codigocomuna": "02102",
+      "nombrecomuna": "Mejillones"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "021",
+      "nombreprovincia": "Antofagasta",
+      "codigocomuna": "02103",
+      "nombrecomuna": "Sierra Gorda"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "021",
+      "nombreprovincia": "Antofagasta",
+      "codigocomuna": "02104",
+      "nombrecomuna": "Taltal"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "022",
+      "nombreprovincia": "El Loa",
+      "codigocomuna": "02201",
+      "nombrecomuna": "Calama"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "022",
+      "nombreprovincia": "El Loa",
+      "codigocomuna": "02202",
+      "nombrecomuna": "Ollagüe"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "022",
+      "nombreprovincia": "El Loa",
+      "codigocomuna": "02203",
+      "nombrecomuna": "San Pedro de Atacama"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "023",
+      "nombreprovincia": "Tocopilla",
+      "codigocomuna": "02301",
+      "nombrecomuna": "Tocopilla"
+    },
+    {
+      "codigoregion": "02",
+      "nombreregion": "Antofagasta",
+      "abreviaturaregion": "ANTOF",
+      "codigoprovincia": "023",
+      "nombreprovincia": "Tocopilla",
+      "codigocomuna": "02302",
+      "nombrecomuna": "María Elena"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "031",
+      "nombreprovincia": "Copiapó",
+      "codigocomuna": "03101",
+      "nombrecomuna": "Copiapó"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "031",
+      "nombreprovincia": "Copiapó",
+      "codigocomuna": "03102",
+      "nombrecomuna": "Caldera"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "031",
+      "nombreprovincia": "Copiapó",
+      "codigocomuna": "03103",
+      "nombrecomuna": "Tierra Amarilla"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "032",
+      "nombreprovincia": "Chañaral",
+      "codigocomuna": "03201",
+      "nombrecomuna": "Chañaral"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "032",
+      "nombreprovincia": "Chañaral",
+      "codigocomuna": "03202",
+      "nombrecomuna": "Diego de Almagro"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "033",
+      "nombreprovincia": "Huasco",
+      "codigocomuna": "03301",
+      "nombrecomuna": "Vallenar"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "033",
+      "nombreprovincia": "Huasco",
+      "codigocomuna": "03302",
+      "nombrecomuna": "Alto del Carmen"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "033",
+      "nombreprovincia": "Huasco",
+      "codigocomuna": "03303",
+      "nombrecomuna": "Freirina"
+    },
+    {
+      "codigoregion": "03",
+      "nombreregion": "Atacama",
+      "abreviaturaregion": "ATCMA",
+      "codigoprovincia": "033",
+      "nombreprovincia": "Huasco",
+      "codigocomuna": "03304",
+      "nombrecomuna": "Huasco"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04101",
+      "nombrecomuna": "La Serena"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04102",
+      "nombrecomuna": "Coquimbo"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04103",
+      "nombrecomuna": "Andacollo"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04104",
+      "nombrecomuna": "La Higuera"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04105",
+      "nombrecomuna": "Paiguano"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "041",
+      "nombreprovincia": "Elqui",
+      "codigocomuna": "04106",
+      "nombrecomuna": "Vicuña"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "042",
+      "nombreprovincia": "Choapa",
+      "codigocomuna": "04201",
+      "nombrecomuna": "Illapel"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "042",
+      "nombreprovincia": "Choapa",
+      "codigocomuna": "04202",
+      "nombrecomuna": "Canela"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "042",
+      "nombreprovincia": "Choapa",
+      "codigocomuna": "04203",
+      "nombrecomuna": "Los Vilos"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "042",
+      "nombreprovincia": "Choapa",
+      "codigocomuna": "04204",
+      "nombrecomuna": "Salamanca"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "043",
+      "nombreprovincia": "Limarí",
+      "codigocomuna": "04301",
+      "nombrecomuna": "Ovalle"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "043",
+      "nombreprovincia": "Limarí",
+      "codigocomuna": "04302",
+      "nombrecomuna": "Combarbalá"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "043",
+      "nombreprovincia": "Limarí",
+      "codigocomuna": "04303",
+      "nombrecomuna": "Monte Patria"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "043",
+      "nombreprovincia": "Limarí",
+      "codigocomuna": "04304",
+      "nombrecomuna": "Punitaqui"
+    },
+    {
+      "codigoregion": "04",
+      "nombreregion": "Coquimbo",
+      "abreviaturaregion": "COQ",
+      "codigoprovincia": "043",
+      "nombreprovincia": "Limarí",
+      "codigocomuna": "04305",
+      "nombrecomuna": "Río Hurtado"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05101",
+      "nombrecomuna": "Valparaíso"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05102",
+      "nombrecomuna": "Casablanca"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05103",
+      "nombrecomuna": "Concón"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05104",
+      "nombrecomuna": "Juan Fernández"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05105",
+      "nombrecomuna": "Puchuncaví"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05107",
+      "nombrecomuna": "Quintero"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "051",
+      "nombreprovincia": "Valparaíso",
+      "codigocomuna": "05109",
+      "nombrecomuna": "Viña del Mar"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "052",
+      "nombreprovincia": "Isla de Pascua",
+      "codigocomuna": "05201",
+      "nombrecomuna": "Isla de Pascua"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "053",
+      "nombreprovincia": "Los Andes",
+      "codigocomuna": "05301",
+      "nombrecomuna": "Los Andes"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "053",
+      "nombreprovincia": "Los Andes",
+      "codigocomuna": "05302",
+      "nombrecomuna": "Calle Larga"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "053",
+      "nombreprovincia": "Los Andes",
+      "codigocomuna": "05303",
+      "nombrecomuna": "Rinconada"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "053",
+      "nombreprovincia": "Los Andes",
+      "codigocomuna": "05304",
+      "nombrecomuna": "San Esteban"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "054",
+      "nombreprovincia": "Petorca",
+      "codigocomuna": "05401",
+      "nombrecomuna": "La Ligua"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "054",
+      "nombreprovincia": "Petorca",
+      "codigocomuna": "05402",
+      "nombrecomuna": "Cabildo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "054",
+      "nombreprovincia": "Petorca",
+      "codigocomuna": "05403",
+      "nombrecomuna": "Papudo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "054",
+      "nombreprovincia": "Petorca",
+      "codigocomuna": "05404",
+      "nombrecomuna": "Petorca"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "054",
+      "nombreprovincia": "Petorca",
+      "codigocomuna": "05405",
+      "nombrecomuna": "Zapallar"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "055",
+      "nombreprovincia": "Quillota",
+      "codigocomuna": "05501",
+      "nombrecomuna": "Quillota"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "055",
+      "nombreprovincia": "Quillota",
+      "codigocomuna": "05502",
+      "nombrecomuna": "Calera"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "055",
+      "nombreprovincia": "Quillota",
+      "codigocomuna": "05503",
+      "nombrecomuna": "Hijuelas"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "055",
+      "nombreprovincia": "Quillota",
+      "codigocomuna": "05504",
+      "nombrecomuna": "La Cruz"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "055",
+      "nombreprovincia": "Quillota",
+      "codigocomuna": "05506",
+      "nombrecomuna": "Nogales"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05601",
+      "nombrecomuna": "San Antonio"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05602",
+      "nombrecomuna": "Algarrobo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05603",
+      "nombrecomuna": "Cartagena"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05604",
+      "nombrecomuna": "El Quisco"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05605",
+      "nombrecomuna": "El Tabo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "056",
+      "nombreprovincia": "San Antonio",
+      "codigocomuna": "05606",
+      "nombrecomuna": "Santo Domingo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05701",
+      "nombrecomuna": "San Felipe"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05702",
+      "nombrecomuna": "Catemu"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05703",
+      "nombrecomuna": "Llaillay"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05704",
+      "nombrecomuna": "Panquehue"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05705",
+      "nombrecomuna": "Putaendo"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "057",
+      "nombreprovincia": "San Felipe de Aconcagua",
+      "codigocomuna": "05706",
+      "nombrecomuna": "Santa María"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "058",
+      "nombreprovincia": "Marga Marga",
+      "codigocomuna": "05801",
+      "nombrecomuna": "Quilpué"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "058",
+      "nombreprovincia": "Marga Marga",
+      "codigocomuna": "05802",
+      "nombrecomuna": "Limache"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "058",
+      "nombreprovincia": "Marga Marga",
+      "codigocomuna": "05803",
+      "nombrecomuna": "Olmué"
+    },
+    {
+      "codigoregion": "05",
+      "nombreregion": "Valparaíso",
+      "abreviaturaregion": "VALPO",
+      "codigoprovincia": "058",
+      "nombreprovincia": "Marga Marga",
+      "codigocomuna": "05804",
+      "nombrecomuna": "Villa Alemana"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06101",
+      "nombrecomuna": "Rancagua"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06102",
+      "nombrecomuna": "Codegua"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06103",
+      "nombrecomuna": "Coinco"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06104",
+      "nombrecomuna": "Coltauco"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06105",
+      "nombrecomuna": "Doñihue"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06106",
+      "nombrecomuna": "Graneros"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06107",
+      "nombrecomuna": "Las Cabras"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06108",
+      "nombrecomuna": "Machalí"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06109",
+      "nombrecomuna": "Malloa"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06110",
+      "nombrecomuna": "Mostazal"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06111",
+      "nombrecomuna": "Olivar"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06112",
+      "nombrecomuna": "Peumo"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06113",
+      "nombrecomuna": "Pichidegua"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06114",
+      "nombrecomuna": "Quinta de Tilcoco"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06115",
+      "nombrecomuna": "Rengo"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06116",
+      "nombrecomuna": "Requínoa"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "061",
+      "nombreprovincia": "Cachapoal",
+      "codigocomuna": "06117",
+      "nombrecomuna": "San Vicente"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06201",
+      "nombrecomuna": "Pichilemu"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06202",
+      "nombrecomuna": "La Estrella"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06203",
+      "nombrecomuna": "Litueche"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06204",
+      "nombrecomuna": "Marchihue"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06205",
+      "nombrecomuna": "Navidad"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "062",
+      "nombreprovincia": "Cardenal Caro",
+      "codigocomuna": "06206",
+      "nombrecomuna": "Paredones"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06301",
+      "nombrecomuna": "San Fernando"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06302",
+      "nombrecomuna": "Chépica"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06303",
+      "nombrecomuna": "Chimbarongo"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06304",
+      "nombrecomuna": "Lolol"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06305",
+      "nombrecomuna": "Nancagua"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06306",
+      "nombrecomuna": "Palmilla"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06307",
+      "nombrecomuna": "Peralillo"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06308",
+      "nombrecomuna": "Placilla"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06309",
+      "nombrecomuna": "Pumanque"
+    },
+    {
+      "codigoregion": "06",
+      "nombreregion": "Libertador General Bernardo O'Higgins",
+      "abreviaturaregion": "LGBO",
+      "codigoprovincia": "063",
+      "nombreprovincia": "Colchagua",
+      "codigocomuna": "06310",
+      "nombrecomuna": "Santa Cruz"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07101",
+      "nombrecomuna": "Talca"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07102",
+      "nombrecomuna": "Constitución"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07103",
+      "nombrecomuna": "Curepto"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07104",
+      "nombrecomuna": "Empedrado"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07105",
+      "nombrecomuna": "Maule"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07106",
+      "nombrecomuna": "Pelarco"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07107",
+      "nombrecomuna": "Pencahue"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07108",
+      "nombrecomuna": "Río Claro"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07109",
+      "nombrecomuna": "San Clemente"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "071",
+      "nombreprovincia": "Talca",
+      "codigocomuna": "07110",
+      "nombrecomuna": "San Rafael"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "072",
+      "nombreprovincia": "Cauquenes",
+      "codigocomuna": "07201",
+      "nombrecomuna": "Cauquenes"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "072",
+      "nombreprovincia": "Cauquenes",
+      "codigocomuna": "07202",
+      "nombrecomuna": "Chanco"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "072",
+      "nombreprovincia": "Cauquenes",
+      "codigocomuna": "07203",
+      "nombrecomuna": "Pelluhue"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07301",
+      "nombrecomuna": "Curicó"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07302",
+      "nombrecomuna": "Hualañé"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07303",
+      "nombrecomuna": "Licantén"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07304",
+      "nombrecomuna": "Molina"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07305",
+      "nombrecomuna": "Rauco"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07306",
+      "nombrecomuna": "Romeral"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07307",
+      "nombrecomuna": "Sagrada Familia"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07308",
+      "nombrecomuna": "Teno"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "073",
+      "nombreprovincia": "Curicó",
+      "codigocomuna": "07309",
+      "nombrecomuna": "Vichuquén"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07401",
+      "nombrecomuna": "Linares"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07402",
+      "nombrecomuna": "Colbún"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07403",
+      "nombrecomuna": "Longaví"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07404",
+      "nombrecomuna": "Parral"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07405",
+      "nombrecomuna": "Retiro"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07406",
+      "nombrecomuna": "San Javier"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07407",
+      "nombrecomuna": "Villa Alegre"
+    },
+    {
+      "codigoregion": "07",
+      "nombreregion": "Maule",
+      "abreviaturaregion": "MAULE",
+      "codigoprovincia": "074",
+      "nombreprovincia": "Linares",
+      "codigocomuna": "07408",
+      "nombrecomuna": "Yerbas Buenas"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08101",
+      "nombrecomuna": "Concepción"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08102",
+      "nombrecomuna": "Coronel"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08103",
+      "nombrecomuna": "Chiguayante"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08104",
+      "nombrecomuna": "Florida"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08105",
+      "nombrecomuna": "Hualqui"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08106",
+      "nombrecomuna": "Lota"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08107",
+      "nombrecomuna": "Penco"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08108",
+      "nombrecomuna": "San Pedro de la Paz"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08109",
+      "nombrecomuna": "Santa Juana"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08110",
+      "nombrecomuna": "Talcahuano"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08111",
+      "nombrecomuna": "Tomé"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "081",
+      "nombreprovincia": "Concepción",
+      "codigocomuna": "08112",
+      "nombrecomuna": "Hualpén"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08201",
+      "nombrecomuna": "Lebu"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08202",
+      "nombrecomuna": "Arauco"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08203",
+      "nombrecomuna": "Cañete"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08204",
+      "nombrecomuna": "Contulmo"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08205",
+      "nombrecomuna": "Curanilahue"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08206",
+      "nombrecomuna": "Los Alamos"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "082",
+      "nombreprovincia": "Arauco",
+      "codigocomuna": "08207",
+      "nombrecomuna": "Tirúa"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08301",
+      "nombrecomuna": "Los Angeles"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08302",
+      "nombrecomuna": "Antuco"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08303",
+      "nombrecomuna": "Cabrero"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08304",
+      "nombrecomuna": "Laja"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08305",
+      "nombrecomuna": "Mulchén"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08306",
+      "nombrecomuna": "Nacimiento"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08307",
+      "nombrecomuna": "Negrete"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08308",
+      "nombrecomuna": "Quilaco"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08309",
+      "nombrecomuna": "Quilleco"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08310",
+      "nombrecomuna": "San Rosendo"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08311",
+      "nombrecomuna": "Santa Bárbara"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08312",
+      "nombrecomuna": "Tucapel"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08313",
+      "nombrecomuna": "Yumbel"
+    },
+    {
+      "codigoregion": "08",
+      "nombreregion": "Biobío",
+      "abreviaturaregion": "BBIO",
+      "codigoprovincia": "083",
+      "nombreprovincia": "Biobío",
+      "codigocomuna": "08314",
+      "nombrecomuna": "Alto Biobío"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09101",
+      "nombrecomuna": "Temuco"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09102",
+      "nombrecomuna": "Carahue"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09103",
+      "nombrecomuna": "Cunco"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09104",
+      "nombrecomuna": "Curarrehue"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09105",
+      "nombrecomuna": "Freire"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09106",
+      "nombrecomuna": "Galvarino"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09107",
+      "nombrecomuna": "Gorbea"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09108",
+      "nombrecomuna": "Lautaro"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09109",
+      "nombrecomuna": "Loncoche"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09110",
+      "nombrecomuna": "Melipeuco"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09111",
+      "nombrecomuna": "Nueva Imperial"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09112",
+      "nombrecomuna": "Padre Las Casas"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09113",
+      "nombrecomuna": "Perquenco"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09114",
+      "nombrecomuna": "Pitrufquén"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09115",
+      "nombrecomuna": "Pucón"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09116",
+      "nombrecomuna": "Saavedra"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09117",
+      "nombrecomuna": "Teodoro Schmidt"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09118",
+      "nombrecomuna": "Toltén"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09119",
+      "nombrecomuna": "Vilcún"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09120",
+      "nombrecomuna": "Villarrica"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "091",
+      "nombreprovincia": "Cautín",
+      "codigocomuna": "09121",
+      "nombrecomuna": "Cholchol"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09201",
+      "nombrecomuna": "Angol"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09202",
+      "nombrecomuna": "Collipulli"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09203",
+      "nombrecomuna": "Curacautín"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09204",
+      "nombrecomuna": "Ercilla"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09205",
+      "nombrecomuna": "Lonquimay"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09206",
+      "nombrecomuna": "Los Sauces"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09207",
+      "nombrecomuna": "Lumaco"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09208",
+      "nombrecomuna": "Purén"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09209",
+      "nombrecomuna": "Renaico"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09210",
+      "nombrecomuna": "Traiguén"
+    },
+    {
+      "codigoregion": "09",
+      "nombreregion": "La Araucanía",
+      "abreviaturaregion": "ARAUC",
+      "codigoprovincia": "092",
+      "nombreprovincia": "Malleco",
+      "codigocomuna": "09211",
+      "nombrecomuna": "Victoria"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10101",
+      "nombrecomuna": "Puerto Montt"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10102",
+      "nombrecomuna": "Calbuco"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10103",
+      "nombrecomuna": "Cochamó"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10104",
+      "nombrecomuna": "Fresia"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10105",
+      "nombrecomuna": "Frutillar"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10106",
+      "nombrecomuna": "Los Muermos"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10107",
+      "nombrecomuna": "Llanquihue"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10108",
+      "nombrecomuna": "Maullín"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "101",
+      "nombreprovincia": "Llanquihue",
+      "codigocomuna": "10109",
+      "nombrecomuna": "Puerto Varas"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10201",
+      "nombrecomuna": "Castro"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10202",
+      "nombrecomuna": "Ancud"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10203",
+      "nombrecomuna": "Chonchi"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10204",
+      "nombrecomuna": "Curaco de Vélez"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10205",
+      "nombrecomuna": "Dalcahue"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10206",
+      "nombrecomuna": "Puqueldón"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10207",
+      "nombrecomuna": "Queilén"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10208",
+      "nombrecomuna": "Quellón"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10209",
+      "nombrecomuna": "Quemchi"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "102",
+      "nombreprovincia": "Chiloé",
+      "codigocomuna": "10210",
+      "nombrecomuna": "Quinchao"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10301",
+      "nombrecomuna": "Osorno"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10302",
+      "nombrecomuna": "Puerto Octay"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10303",
+      "nombrecomuna": "Purranque"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10304",
+      "nombrecomuna": "Puyehue"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10305",
+      "nombrecomuna": "Río Negro"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10306",
+      "nombrecomuna": "San Juan de la Costa"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "103",
+      "nombreprovincia": "Osorno",
+      "codigocomuna": "10307",
+      "nombrecomuna": "San Pablo"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "104",
+      "nombreprovincia": "Palena",
+      "codigocomuna": "10401",
+      "nombrecomuna": "Chaitén"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "104",
+      "nombreprovincia": "Palena",
+      "codigocomuna": "10402",
+      "nombrecomuna": "Futaleufú"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "104",
+      "nombreprovincia": "Palena",
+      "codigocomuna": "10403",
+      "nombrecomuna": "Hualaihué"
+    },
+    {
+      "codigoregion": "10",
+      "nombreregion": "Los Lagos",
+      "abreviaturaregion": "LAGOS",
+      "codigoprovincia": "104",
+      "nombreprovincia": "Palena",
+      "codigocomuna": "10404",
+      "nombrecomuna": "Palena"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "111",
+      "nombreprovincia": "Coihaique",
+      "codigocomuna": "11101",
+      "nombrecomuna": "Coihaique"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "111",
+      "nombreprovincia": "Coihaique",
+      "codigocomuna": "11102",
+      "nombrecomuna": "Lago Verde"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "112",
+      "nombreprovincia": "Aisén",
+      "codigocomuna": "11201",
+      "nombrecomuna": "Aisén"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "112",
+      "nombreprovincia": "Aisén",
+      "codigocomuna": "11202",
+      "nombrecomuna": "Cisnes"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "112",
+      "nombreprovincia": "Aisén",
+      "codigocomuna": "11203",
+      "nombrecomuna": "Guaitecas"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "113",
+      "nombreprovincia": "Capitán Prat",
+      "codigocomuna": "11301",
+      "nombrecomuna": "Cochrane"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "113",
+      "nombreprovincia": "Capitán Prat",
+      "codigocomuna": "11302",
+      "nombrecomuna": "O'Higgins"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "113",
+      "nombreprovincia": "Capitán Prat",
+      "codigocomuna": "11303",
+      "nombrecomuna": "Tortel"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "114",
+      "nombreprovincia": "General Carrera",
+      "codigocomuna": "11401",
+      "nombrecomuna": "Chile Chico"
+    },
+    {
+      "codigoregion": "11",
+      "nombreregion": "Aysén del General Carlos Ibáñez del Campo",
+      "abreviaturaregion": "AYSEN",
+      "codigoprovincia": "114",
+      "nombreprovincia": "General Carrera",
+      "codigocomuna": "11402",
+      "nombrecomuna": "Río Ibáñez"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "121",
+      "nombreprovincia": "Magallanes",
+      "codigocomuna": "12101",
+      "nombrecomuna": "Punta Arenas"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "121",
+      "nombreprovincia": "Magallanes",
+      "codigocomuna": "12102",
+      "nombrecomuna": "Laguna Blanca"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "121",
+      "nombreprovincia": "Magallanes",
+      "codigocomuna": "12103",
+      "nombrecomuna": "Río Verde"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "121",
+      "nombreprovincia": "Magallanes",
+      "codigocomuna": "12104",
+      "nombrecomuna": "San Gregorio"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "122",
+      "nombreprovincia": "Antártica Chilena",
+      "codigocomuna": "12201",
+      "nombrecomuna": "Cabo de Hornos"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "122",
+      "nombreprovincia": "Antártica Chilena",
+      "codigocomuna": "12202",
+      "nombrecomuna": "Antártica"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "123",
+      "nombreprovincia": "Tierra del Fuego",
+      "codigocomuna": "12301",
+      "nombrecomuna": "Porvenir"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "123",
+      "nombreprovincia": "Tierra del Fuego",
+      "codigocomuna": "12302",
+      "nombrecomuna": "Primavera"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "123",
+      "nombreprovincia": "Tierra del Fuego",
+      "codigocomuna": "12303",
+      "nombrecomuna": "Timaukel"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "124",
+      "nombreprovincia": "Última Esperanza",
+      "codigocomuna": "12401",
+      "nombrecomuna": "Natales"
+    },
+    {
+      "codigoregion": "12",
+      "nombreregion": "Magallanes y de la Antártica Chilena",
+      "abreviaturaregion": "MAG",
+      "codigoprovincia": "124",
+      "nombreprovincia": "Última Esperanza",
+      "codigocomuna": "12402",
+      "nombrecomuna": "Torres del Paine"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13101",
+      "nombrecomuna": "Santiago"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13102",
+      "nombrecomuna": "Cerrillos"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13103",
+      "nombrecomuna": "Cerro Navia"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13104",
+      "nombrecomuna": "Conchalí"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13105",
+      "nombrecomuna": "El Bosque"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13106",
+      "nombrecomuna": "Estación Central"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13107",
+      "nombrecomuna": "Huechuraba"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13108",
+      "nombrecomuna": "Independencia"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13109",
+      "nombrecomuna": "La Cisterna"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13110",
+      "nombrecomuna": "La Florida"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13111",
+      "nombrecomuna": "La Granja"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13112",
+      "nombrecomuna": "La Pintana"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13113",
+      "nombrecomuna": "La Reina"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13114",
+      "nombrecomuna": "Las Condes"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13115",
+      "nombrecomuna": "Lo Barnechea"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13116",
+      "nombrecomuna": "Lo Espejo"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13117",
+      "nombrecomuna": "Lo Prado"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13118",
+      "nombrecomuna": "Macul"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13119",
+      "nombrecomuna": "Maipú"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13120",
+      "nombrecomuna": "Ñuñoa"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13121",
+      "nombrecomuna": "Pedro Aguirre Cerda"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13122",
+      "nombrecomuna": "Peñalolén"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13123",
+      "nombrecomuna": "Providencia"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13124",
+      "nombrecomuna": "Pudahuel"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13125",
+      "nombrecomuna": "Quilicura"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13126",
+      "nombrecomuna": "Quinta Normal"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13127",
+      "nombrecomuna": "Recoleta"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13128",
+      "nombrecomuna": "Renca"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13129",
+      "nombrecomuna": "San Joaquín"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13130",
+      "nombrecomuna": "San Miguel"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13131",
+      "nombrecomuna": "San Ramón"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "131",
+      "nombreprovincia": "Santiago",
+      "codigocomuna": "13132",
+      "nombrecomuna": "Vitacura"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "132",
+      "nombreprovincia": "Cordillera",
+      "codigocomuna": "13201",
+      "nombrecomuna": "Puente Alto"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "132",
+      "nombreprovincia": "Cordillera",
+      "codigocomuna": "13202",
+      "nombrecomuna": "Pirque"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "132",
+      "nombreprovincia": "Cordillera",
+      "codigocomuna": "13203",
+      "nombrecomuna": "San José de Maipo"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "133",
+      "nombreprovincia": "Chacabuco",
+      "codigocomuna": "13301",
+      "nombrecomuna": "Colina"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "133",
+      "nombreprovincia": "Chacabuco",
+      "codigocomuna": "13302",
+      "nombrecomuna": "Lampa"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "133",
+      "nombreprovincia": "Chacabuco",
+      "codigocomuna": "13303",
+      "nombrecomuna": "Tiltil"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "134",
+      "nombreprovincia": "Maipo",
+      "codigocomuna": "13401",
+      "nombrecomuna": "San Bernardo"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "134",
+      "nombreprovincia": "Maipo",
+      "codigocomuna": "13402",
+      "nombrecomuna": "Buin"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "134",
+      "nombreprovincia": "Maipo",
+      "codigocomuna": "13403",
+      "nombrecomuna": "Calera de Tango"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "134",
+      "nombreprovincia": "Maipo",
+      "codigocomuna": "13404",
+      "nombrecomuna": "Paine"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "135",
+      "nombreprovincia": "Melipilla",
+      "codigocomuna": "13501",
+      "nombrecomuna": "Melipilla"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "135",
+      "nombreprovincia": "Melipilla",
+      "codigocomuna": "13502",
+      "nombrecomuna": "Alhué"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "135",
+      "nombreprovincia": "Melipilla",
+      "codigocomuna": "13503",
+      "nombrecomuna": "Curacaví"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "135",
+      "nombreprovincia": "Melipilla",
+      "codigocomuna": "13504",
+      "nombrecomuna": "María Pinto"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "135",
+      "nombreprovincia": "Melipilla",
+      "codigocomuna": "13505",
+      "nombrecomuna": "San Pedro"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "136",
+      "nombreprovincia": "Talagante",
+      "codigocomuna": "13601",
+      "nombrecomuna": "Talagante"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "136",
+      "nombreprovincia": "Talagante",
+      "codigocomuna": "13602",
+      "nombrecomuna": "El Monte"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "136",
+      "nombreprovincia": "Talagante",
+      "codigocomuna": "13603",
+      "nombrecomuna": "Isla de Maipo"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "136",
+      "nombreprovincia": "Talagante",
+      "codigocomuna": "13604",
+      "nombrecomuna": "Padre Hurtado"
+    },
+    {
+      "codigoregion": "13",
+      "nombreregion": "Metropolitana de Santiago",
+      "abreviaturaregion": "RM",
+      "codigoprovincia": "136",
+      "nombreprovincia": "Talagante",
+      "codigocomuna": "13605",
+      "nombrecomuna": "Peñaflor"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14101",
+      "nombrecomuna": "Valdivia"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14102",
+      "nombrecomuna": "Corral"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14103",
+      "nombrecomuna": "Lanco"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14104",
+      "nombrecomuna": "Los Lagos"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14105",
+      "nombrecomuna": "Máfil"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14106",
+      "nombrecomuna": "Mariquina"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14107",
+      "nombrecomuna": "Paillaco"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "141",
+      "nombreprovincia": "Valdivia",
+      "codigocomuna": "14108",
+      "nombrecomuna": "Panguipulli"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "142",
+      "nombreprovincia": "Ranco",
+      "codigocomuna": "14201",
+      "nombrecomuna": "La Unión"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "142",
+      "nombreprovincia": "Ranco",
+      "codigocomuna": "14202",
+      "nombrecomuna": "Futrono"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "142",
+      "nombreprovincia": "Ranco",
+      "codigocomuna": "14203",
+      "nombrecomuna": "Lago Ranco"
+    },
+    {
+      "codigoregion": "14",
+      "nombreregion": "Los Ríos",
+      "abreviaturaregion": "RIOS",
+      "codigoprovincia": "142",
+      "nombreprovincia": "Ranco",
+      "codigocomuna": "14204",
+      "nombrecomuna": "Río Bueno"
+    },
+    {
+      "codigoregion": "15",
+      "nombreregion": "Arica y Parinacota",
+      "abreviaturaregion": "AyP",
+      "codigoprovincia": "151",
+      "nombreprovincia": "Arica",
+      "codigocomuna": "15101",
+      "nombrecomuna": "Arica"
+    },
+    {
+      "codigoregion": "15",
+      "nombreregion": "Arica y Parinacota",
+      "abreviaturaregion": "AyP",
+      "codigoprovincia": "151",
+      "nombreprovincia": "Arica",
+      "codigocomuna": "15102",
+      "nombrecomuna": "Camarones"
+    },
+    {
+      "codigoregion": "15",
+      "nombreregion": "Arica y Parinacota",
+      "abreviaturaregion": "AyP",
+      "codigoprovincia": "152",
+      "nombreprovincia": "Parinacota",
+      "codigocomuna": "15201",
+      "nombrecomuna": "Putre"
+    },
+    {
+      "codigoregion": "15",
+      "nombreregion": "Arica y Parinacota",
+      "abreviaturaregion": "AyP",
+      "codigoprovincia": "152",
+      "nombreprovincia": "Parinacota",
+      "codigocomuna": "15202",
+      "nombrecomuna": "General Lagos"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16101",
+      "nombrecomuna": "Chillán"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16102",
+      "nombrecomuna": "Bulnes"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16103",
+      "nombrecomuna": "Chillán Viejo"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16104",
+      "nombrecomuna": "El Carmen"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16105",
+      "nombrecomuna": "Pemuco"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16106",
+      "nombrecomuna": "Pinto"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16107",
+      "nombrecomuna": "Quillón"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16108",
+      "nombrecomuna": "San Ignacio"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "161",
+      "nombreprovincia": "Diguillín",
+      "codigocomuna": "16109",
+      "nombrecomuna": "Yungay"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16201",
+      "nombrecomuna": "Quirihue"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16202",
+      "nombrecomuna": "Cobquecura"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16203",
+      "nombrecomuna": "Coelemu"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16204",
+      "nombrecomuna": "Ninhue"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16205",
+      "nombrecomuna": "Portezuelo"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16206",
+      "nombrecomuna": "Ranquil"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "162",
+      "nombreprovincia": "Itata",
+      "codigocomuna": "16207",
+      "nombrecomuna": "Treguaco"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "163",
+      "nombreprovincia": "Punilla",
+      "codigocomuna": "16301",
+      "nombrecomuna": "San Carlos"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "163",
+      "nombreprovincia": "Punilla",
+      "codigocomuna": "16302",
+      "nombrecomuna": "Coihueco"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "163",
+      "nombreprovincia": "Punilla",
+      "codigocomuna": "16303",
+      "nombrecomuna": "Ñiquén"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "163",
+      "nombreprovincia": "Punilla",
+      "codigocomuna": "16304",
+      "nombrecomuna": "San Fabián"
+    },
+    {
+      "codigoregion": "16",
+      "nombreregion": "Ñuble",
+      "abreviaturaregion": "NUBLE",
+      "codigoprovincia": "163",
+      "nombreprovincia": "Punilla",
+      "codigocomuna": "16305",
+      "nombrecomuna": "San Nicolás"
+    }
+  ]
+}
