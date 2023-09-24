@@ -20,5 +20,3 @@ Se puede acceder a la informacion de todas las comunas, o mediante busquedas.
 
 https://api.jsonbin.io/v3/b/650f1e5f12a5d376598225ad/
 
-X-Master-Key
-$2a$10$SHEQ7JqCfUgh3dHqZ6VolOqthrrzym4DBvmgHkFlucN1sf5eVlWOi
